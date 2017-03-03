@@ -3,6 +3,8 @@
 // @namespace    https://github.com/disrupted/MakeTheVergeGreatAgain
 // @version      1.0
 // @description  apply a color to all user comments which makes it easier to follow the discussions
+// @updateURL    https://raw.githubusercontent.com/disrupted/MakeTheVergeGreatAgain/master/Color-Coded-Comments.user.js
+// @downloadURL  https://raw.githubusercontent.com/disrupted/MakeTheVergeGreatAgain/master/Color-Coded-Comments.user.js
 // @author       disrupted
 // @include      *://www.theverge.com/*
 // @include      *://www.polygon.com/*
