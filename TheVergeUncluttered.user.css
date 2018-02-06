@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain(theverge.com) {
-div.c-related-list, ul.c-social-buttons.main-social, div.c-tab-bar.tab-bar-fixed, div.c-river.c-river, div.l-wrapper.c-footer__wrapper, div.l-col__sidebar, footer.c-footer, ul.c-social-buttons, form#subForm {
+div.c-related-list, div.c-tab-bar.tab-bar-fixed, div.c-river.c-river, div.l-wrapper.c-footer__wrapper, div.l-col__sidebar, footer.c-footer, ul.c-social-buttons, .c-social-buttons__inline, form#subForm {
   display: none !important;
 }
 
